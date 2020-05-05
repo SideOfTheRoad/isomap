@@ -1,5 +1,5 @@
 # isomap
-Coil-100.ipynb是isomap的实验文件  
+Coil-100_commented.ipynb是isomap的实验文件  
 数据需要从https://www.cs.columbia.edu/CAVE/software/softlib/coil-100.php 进行下载  
 
 # 其他
